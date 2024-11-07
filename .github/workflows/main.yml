@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 from PIL import Image, ImageEnhance
-import io
+importance io
 
 # Bot token from BotFather
 TOKEN = "7933257531:AAG5iUv16JRGOGEHI-DgPKR0tqiy5rgNswM"
